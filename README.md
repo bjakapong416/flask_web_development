@@ -15,7 +15,7 @@ default Git version is the main branch. ::
     
 Create a virtualenv and activate it::
 
-    $ python -m pip install upgrade pip
+    $ python -m pip install --upgrade pip
     $ pip install virtualenv
     $ virtualenv venv
     $ source .venv\Scripts\activate
